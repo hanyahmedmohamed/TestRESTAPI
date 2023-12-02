@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TestRESTAPI3.props" />
+</Project>
